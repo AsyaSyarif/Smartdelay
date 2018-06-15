@@ -1,0 +1,2 @@
+Smartdelay	KEYWORD1
+delay	KEYWORD2
